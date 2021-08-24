@@ -39,7 +39,7 @@ I did the ER Diagram using MYSQL Workbench, which I felt is the Best way doing i
 
 
 
-The datasets were downloaded from the link provided in https://fetch-hiring.s3.amazonaws.com/analytics-engineer/ineeddata-data-modeling/data-modeling.html.
+The datasets were downloaded from the link provided in https://fetch-hiring.s3.amazonaws.com/data-analyst/ineeddata-data-modeling/data-modeling.html
 
 The JSON files, are then extracted, and loaded using Jupyter Notebook converted to CSV. The code for converting from JSON to CSV is included in the ipynb file.
 
